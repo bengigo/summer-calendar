@@ -5,11 +5,16 @@
     font-family: "Julius Sans One", sans-serif;
 }
 
+h1 {
+    background-color:sandybrown;
+    text-align: center;
+}
+
 table {
-    margin: auto;
+    margin: 40px auto 60px auto;
 }
 caption {
-    margin: 65px auto 30px auto;
+    margin: auto auto 25px auto;
 }
 
 table, th, tr, td {
