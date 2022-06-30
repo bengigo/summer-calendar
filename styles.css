@@ -27,3 +27,8 @@ th, tr, td {
     height: 100px;
     text-align: center;
 }
+
+td:hover {
+    background-color:slategray;
+    color: white;
+}
