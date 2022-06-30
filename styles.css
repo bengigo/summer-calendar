@@ -5,29 +5,11 @@
     font-family: "Julius Sans One", sans-serif;
 }
 
-/* .month {
-    background-color: pink;
-    display: flex;
-    flex-direction: column;
-}
-
-h2 {
-    text-align: center;
-}
-
-.week {
-    display: flex;
-    justify-content: space-around;
-    list-style-type: none;
-    align-items: center;
-}
-
-.days {
-    display: flex;
-} */
-
 table {
     margin: auto;
+}
+caption {
+    margin: 65px auto 30px auto;
 }
 
 table, th, tr, td {
